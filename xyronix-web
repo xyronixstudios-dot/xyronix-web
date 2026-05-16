@@ -266,4 +266,4 @@
         function toggleChat() { playClick(); alert("Asistan Xyro: Oyna. Kullan. Güvende Kal."); }
     </script>
 </body>
-</html>
+</html> 
